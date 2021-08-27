@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hampus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hampus\\.nuget\\packages"
+    ]
+  }
+}
